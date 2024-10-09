@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "Mmkv_storageAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "Mmkv_storageAbility_label",
+      "value": "label"
+    }
+  ]
+}

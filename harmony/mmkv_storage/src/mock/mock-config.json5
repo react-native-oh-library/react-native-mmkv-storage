@@ -1,0 +1,5 @@
+{
+  "libmmkv_storage.so": {
+    "source": "src/mock/Libmmkv_storage.mock.ets"
+  }
+}

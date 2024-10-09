@@ -1,0 +1,13 @@
+{
+  "module": {
+    "name": 'mmkv_storage',
+    "type": 'har',
+    "deviceTypes": ['default'],
+    "requestPermissions": [
+      {
+        "name": "ohos.permission.STORE_PERSISTENT_DATA",
+      }
+    ]
+  },
+
+}
