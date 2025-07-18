@@ -1,6 +1,6 @@
 # @react-native-oh-tpl/react-native-mmkv-storage
 
-本项目基于 [react-native-mmkv-storage](https://github.com/ammarahm-ed/react-native-mmkv-storage)
+本项目基于 [react-native-mmkv-storage@0.10.3](https://github.com/ammarahm-ed/react-native-mmkv-storage/tree/v0.10.3)
 
 ## 文档地址 / Documentation URL 
 
